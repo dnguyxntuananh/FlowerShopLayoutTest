@@ -1,0 +1,265 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\user\\css\\lightbox.css"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\css\\style.css",
+      "PackagePath": "staticwebassets\\user\\css\\style.css"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\css\\stylecart.css",
+      "PackagePath": "staticwebassets\\user\\css\\stylecart.css"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\about.gif",
+      "PackagePath": "staticwebassets\\user\\images\\about.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\banner.gif",
+      "PackagePath": "staticwebassets\\user\\images\\banner.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\big_pic.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\big_pic.jpg"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\user\\images\\blank.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\border.gif",
+      "PackagePath": "staticwebassets\\user\\images\\border.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\box_bottom.gif",
+      "PackagePath": "staticwebassets\\user\\images\\box_bottom.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\box_center.gif",
+      "PackagePath": "staticwebassets\\user\\images\\box_center.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\box_top.gif",
+      "PackagePath": "staticwebassets\\user\\images\\box_top.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\bullet1.gif",
+      "PackagePath": "staticwebassets\\user\\images\\bullet1.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\bullet2.gif",
+      "PackagePath": "staticwebassets\\user\\images\\bullet2.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\bullet3.gif",
+      "PackagePath": "staticwebassets\\user\\images\\bullet3.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\bullet4.gif",
+      "PackagePath": "staticwebassets\\user\\images\\bullet4.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\bullet5.gif",
+      "PackagePath": "staticwebassets\\user\\images\\bullet5.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\bullet6.gif",
+      "PackagePath": "staticwebassets\\user\\images\\bullet6.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\cart.gif",
+      "PackagePath": "staticwebassets\\user\\images\\cart.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\cart_thumb.gif",
+      "PackagePath": "staticwebassets\\user\\images\\cart_thumb.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\center_bg.gif",
+      "PackagePath": "staticwebassets\\user\\images\\center_bg.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\close.gif",
+      "PackagePath": "staticwebassets\\user\\images\\close.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\closelabel.gif",
+      "PackagePath": "staticwebassets\\user\\images\\closelabel.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\color1.gif",
+      "PackagePath": "staticwebassets\\user\\images\\color1.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\color2.gif",
+      "PackagePath": "staticwebassets\\user\\images\\color2.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\color3.gif",
+      "PackagePath": "staticwebassets\\user\\images\\color3.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\contact_bt.gif",
+      "PackagePath": "staticwebassets\\user\\images\\contact_bt.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\csscreme.gif",
+      "PackagePath": "staticwebassets\\user\\images\\csscreme.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\de.gif",
+      "PackagePath": "staticwebassets\\user\\images\\de.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\footer_bg.gif",
+      "PackagePath": "staticwebassets\\user\\images\\footer_bg.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\footer_logo.gif",
+      "PackagePath": "staticwebassets\\user\\images\\footer_logo.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\fr.gif",
+      "PackagePath": "staticwebassets\\user\\images\\fr.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\gb.gif",
+      "PackagePath": "staticwebassets\\user\\images\\gb.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\header.jpg"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\left_content_bg.gif",
+      "PackagePath": "staticwebassets\\user\\images\\left_content_bg.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\left_menu_bullet.gif",
+      "PackagePath": "staticwebassets\\user\\images\\left_menu_bullet.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\user\\images\\loading.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\logo.gif",
+      "PackagePath": "staticwebassets\\user\\images\\logo.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\menu_bg.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\menu_bg.jpg"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\menu_bg.png",
+      "PackagePath": "staticwebassets\\user\\images\\menu_bg.png"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\menu_bt_bg.gif",
+      "PackagePath": "staticwebassets\\user\\images\\menu_bt_bg.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\new_icon.gif",
+      "PackagePath": "staticwebassets\\user\\images\\new_icon.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\new_prod_box.gif",
+      "PackagePath": "staticwebassets\\user\\images\\new_prod_box.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\next.gif",
+      "PackagePath": "staticwebassets\\user\\images\\next.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\nextlabel.gif",
+      "PackagePath": "staticwebassets\\user\\images\\nextlabel.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\order_now.gif",
+      "PackagePath": "staticwebassets\\user\\images\\order_now.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\prev.gif",
+      "PackagePath": "staticwebassets\\user\\images\\prev.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\prevlabel.gif",
+      "PackagePath": "staticwebassets\\user\\images\\prevlabel.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\prod1.gif",
+      "PackagePath": "staticwebassets\\user\\images\\prod1.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\prod2.gif",
+      "PackagePath": "staticwebassets\\user\\images\\prod2.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\promo_icon.gif",
+      "PackagePath": "staticwebassets\\user\\images\\promo_icon.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\register_bt.gif",
+      "PackagePath": "staticwebassets\\user\\images\\register_bt.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\special_icon.gif",
+      "PackagePath": "staticwebassets\\user\\images\\special_icon.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\thumb1.gif",
+      "PackagePath": "staticwebassets\\user\\images\\thumb1.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\thumb2.gif",
+      "PackagePath": "staticwebassets\\user\\images\\thumb2.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\thumb3.gif",
+      "PackagePath": "staticwebassets\\user\\images\\thumb3.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\images\\zoom.gif",
+      "PackagePath": "staticwebassets\\user\\images\\zoom.gif"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\js\\effects.js",
+      "PackagePath": "staticwebassets\\user\\js\\effects.js"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\js\\java.js",
+      "PackagePath": "staticwebassets\\user\\js\\java.js"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\user\\js\\lightbox.js"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\js\\prototype.js",
+      "PackagePath": "staticwebassets\\user\\js\\prototype.js"
+    },
+    {
+      "Id": "G:\\Github Docs\\Respon\\FlowerShopLayoutTest\\FlowerShopLayoutTest_MVC\\FlowerShopLayoutTest\\wwwroot\\user\\js\\scriptaculous.js",
+      "PackagePath": "staticwebassets\\user\\js\\scriptaculous.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FlowerShopLayoutTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FlowerShopLayoutTest.props",
+      "PackagePath": "build\\FlowerShopLayoutTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FlowerShopLayoutTest.props",
+      "PackagePath": "buildMultiTargeting\\FlowerShopLayoutTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FlowerShopLayoutTest.props",
+      "PackagePath": "buildTransitive\\FlowerShopLayoutTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

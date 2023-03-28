@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FlowerShopLayoutTest
+build_property.RootNamespace = FlowerShopLayoutTest
+build_property.ProjectDir = G:\Github Docs\Respon\FlowerShopLayoutTest\FlowerShopLayoutTest_MVC\FlowerShopLayoutTest\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Github Docs\Respon\FlowerShopLayoutTest\FlowerShopLayoutTest_MVC\FlowerShopLayoutTest
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Aboutus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Product/Flowers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGbG93ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Product/Gifts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHaWZ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Github Docs/Respon/FlowerShopLayoutTest/FlowerShopLayoutTest_MVC/FlowerShopLayoutTest/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
